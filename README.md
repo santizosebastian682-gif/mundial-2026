@@ -1,2 +1,9 @@
-# mundial-2026
-Imágenes de los países que participaran en el mundial de football 2026
+<img width="307" height="180" alt="Captura de pantalla 2025-12-13 a la(s) 7 17 22 p  m" src="https://github.com/user-attachments/assets/3da3bb38-e1fd-440e-8fa9-c339ec00e545" />
+<img width="307" height="180" alt="Captura de pantalla 2025-12-13 a la(s) 7 17 03 p  m" src="https://github.com/user-attachments/assets/f6aeda34-c0a8-4774-b027-6461caa10065" />
+<img width="307" height="180" alt="Captura de pantalla 2025-12-13 a la(s) 7 17 13 p  m" src="https://github.com/user-attachments/assets/4dd1cadc-d7d1-41a9-a9e5-b5d540279202" />
+<img width="307" height="199" alt="Captura de pantalla 2025-12-13 a la(s) 7 16 46 p  m" src="https://github.com/user-attachments/assets/0c37f600-02c8-402f-aab2-98089912e7d7" />
+<img width="307" height="180" alt="Captura de pantalla 2025-12-13 a la(s) 7 17 28 p  m" src="https://github.com/user-attachments/assets/2106381b-81e4-4e40-976e-7b8986dd4df5" />
+<img width="307" height="199" alt="Captura de pantalla 2025-12-13 a la(s) 7 16 57 p  m" src="https://github.com/user-attachments/assets/82aadd8d-daa0-4c0d-9f33-c7539715d5e2" />
+<img width="307" height="180" alt="Captura de pantalla 2025-12-13 a la(s) 7 17 34 p  m" src="https://github.com/user-attachments/assets/1ef0e521-f894-4193-aab4-d75aa18247ea" />
+<img width="307" height="180" alt="Captura de pantalla 2025-12-13 a la(s) 7 17 44 p  m" src="https://github.com/user-attachments/assets/9f2d9f8f-c59b-4cb4-b0ba-9d7cfd26f1a1" />
+<img width="307" height="180" alt="Captura de pantalla 2025-12-13 a la(s) 7 17 40 p  m" src="https://github.com/user-attachments/assets/9e5af0c9-79c6-4566-a6d1-afa04b4d5e46" />
