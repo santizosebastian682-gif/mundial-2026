@@ -17,3 +17,11 @@
 <img width="307" height="180" alt="Captura de pantalla 2025-12-13 a la(s) 7 17 40 p  m" src="https://github.com/user-attachments/assets/9e5af0c9-79c6-4566-a6d1-afa04b4d5e46" />
 <img width="1182" height="74" alt="Captura de pantalla 2025-12-13 a la(s) 6 27 46 p  m" src="https://github.com/user-attachments/assets/89dd2796-6e21-42d0-9248-462c769852fe" />
 <img width="1003" height="74" alt="Captura de pantalla 2025-12-13 a la(s) 6 20 24 p  m" src="https://github.com/user-attachments/assets/12725607-343f-4684-a76f-221525f1793e" />
+<img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 1 38 28 a  m" src="https://github.com/user-attachments/assets/81cc439e-73a6-4ea9-8b13-02bc35513f21" />
+
+<img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 1 38 58 a  m" src="https://github.com/user-attachments/assets/f3b50cac-f09a-499c-83f3-9e828fc100d7" />
+<img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 1 38 53 a  m" src="https://github.com/user-attachments/assets/46458976-dcbe-4420-878b-95db79e26f22" />
+<img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 1 38 48 a  m" src="https://github.com/user-attachments/assets/2e7f02d7-4de0-4c8d-a9b2-a8d9d37a17f8" />
+<img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 1 38 44 a  m" src="https://github.com/user-attachments/assets/139add4c-5996-4071-8302-ec313713dd88" />
+<img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 1 38 40 a  m" src="https://github.com/user-attachments/assets/48b02e4e-d06d-4a5c-9d5d-ce12a11d0184" />
+<img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 1 38 36 a  m" src="https://github.com/user-attachments/assets/900cf108-0a15-4bae-8d91-38eec80e4da9" />
