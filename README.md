@@ -39,3 +39,14 @@
 <img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 2 02 33 a  m" src="https://github.com/user-attachments/assets/2b836f7b-3b36-4c65-a9aa-0663e575e930" />
 <img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 2 02 28 a  m" src="https://github.com/user-attachments/assets/40d3ce09-0bd2-4607-8fa2-352f469f127f" />
 <img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 2 02 23 a  m" src="https://github.com/user-attachments/assets/0c329119-50fb-469f-bc15-9cd3791560e7" />
+
+<img width="241" height="141" alt="Captura de pantalla 2026-01-03 a la(s) 2 36 57 a  m" src="https://github.com/user-attachments/assets/2c4c7dc5-b9d9-408e-af91-d35fa8799155" />
+<img width="241" height="141" alt="Captura de pantalla 2026-01-03 a la(s) 2 36 53 a  m" src="https://github.com/user-attachments/assets/d9dffed1-f0cc-420e-b371-33c420ba3d45" />
+<img width="241" height="141" alt="Captura de pantalla 2026-01-03 a la(s) 2 36 49 a  m" src="https://github.com/user-attachments/assets/3b2d1cbf-16e3-431a-847f-6cefa1ad78a9" />
+<img width="241" height="141" alt="Captura de pantalla 2026-01-03 a la(s) 2 36 44 a  m" src="https://github.com/user-attachments/assets/7b9996f2-9a31-43eb-ae01-b6d9ffaaa336" />
+<img width="241" height="141" alt="Captura de pantalla 2026-01-03 a la(s) 2 36 40 a  m" src="https://github.com/user-attachments/assets/a916fefc-14bb-448d-99ab-de46e114d2b4" />
+<img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 2 36 34 a  m" src="https://github.com/user-attachments/assets/4b30d335-9884-4a35-98d7-fe5b71f267de" />
+<img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 2 36 29 a  m" src="https://github.com/user-attachments/assets/b516068a-0786-4155-a187-e036d597a943" />
+<img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 2 36 26 a  m" src="https://github.com/user-attachments/assets/932bfd90-cf7e-4d47-8c9e-c87b47d1ec6b" />
+<img width="241" height="144" alt="Captura de pantalla 2026-01-03 a la(s) 2 36 23 a  m" src="https://github.com/user-attachments/assets/5ed5345d-c9f3-4257-9a92-dc7570a4550a" />
+
