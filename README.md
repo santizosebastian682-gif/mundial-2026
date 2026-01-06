@@ -95,5 +95,5 @@
 <img width="860" height="47" alt="Captura de pantalla 2026-01-05 a la(s) 11 30 41 p  m" src="https://github.com/user-attachments/assets/a1021567-6621-45b8-91b0-103883df5b74" />
 <img width="860" height="47" alt="Captura de pantalla 2026-01-05 a la(s) 11 30 33 p  m" src="https://github.com/user-attachments/assets/93adf69f-df9c-4736-9afb-c45595691a2d" />
 <img width="860" height="49" alt="Captura de pantalla 2026-01-05 a la(s) 11 30 23 p  m" src="https://github.com/user-attachments/assets/5c7059c6-fbe1-4618-a8db-a3f1a63e93ce" />
-<img width="797" height="49" alt="Captura de pantalla 2026-01-05 a la(s) 7 41 05 p  m" src="https://github.com/user-attachments/assets/11deb581-e987-4011-a2bc-8d09b3032ca8" />
-<img width="797" height="49" alt="Captura de pantalla 2026-01-05 a la(s) 7 40 59 p  m" src="https://github.com/user-attachments/assets/ba4cd8b8-ae9f-422a-9654-61fb4dcfd43e" />
+<img width="860" height="47" alt="Captura de pantalla 2026-01-05 a la(s) 11 43 40 p  m" src="https://github.com/user-attachments/assets/fc3a047d-89f1-46e9-afc1-84b7e82c17e4" />
+<img width="863" height="49" alt="Captura de pantalla 2026-01-05 a la(s) 11 41 11 p  m" src="https://github.com/user-attachments/assets/9cbc2ca5-9e44-4d8e-a1f7-8595b0b621de" />
