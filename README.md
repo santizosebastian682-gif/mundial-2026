@@ -1,3 +1,4 @@
+<img width="491" height="321" alt="Captura de pantalla 2026-05-19 a la(s) 2 40 28 p  m" src="https://github.com/user-attachments/assets/5ed5e84b-f9e2-47b1-a89b-b3046a8e30b5" />
 <img width="764" height="46" alt="Captura de pantalla 2026-05-19 a la(s) 2 31 51 p  m" src="https://github.com/user-attachments/assets/a79b368b-c56c-4669-88c2-9ec3f959ac48" />
 <img width="669" height="391" alt="Captura de pantalla 2026-05-19 a la(s) 2 33 08 p  m" src="https://github.com/user-attachments/assets/b210d6b3-46f6-486b-a3ee-ee61b6712380" />
 
